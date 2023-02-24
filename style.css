@@ -15,6 +15,12 @@ section{
     background-position: center;
     background-size: cover;
 }
+
+#forget{
+    text-decoration: none;
+    color: #fff;
+}
+
 .form-box{
     position: relative;
     width: 400px;
